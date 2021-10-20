@@ -1,0 +1,5 @@
+yarn add <pacote>
+yarn dev
+yarn prisma migrate dev
+yarn @types/<pacote>
+yarn prisma studio
